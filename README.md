@@ -1,7 +1,5 @@
 # To-Do List App
-
-![To-Do List Template Preview](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/923473bc-a285-487c-93db-e0ddea3d3700/public)
-
+This is a project running on the cloudflare host, please refer to cloudflare -> worker https://developers.cloudflare.com/workers/
 <!-- dash-content-start -->
 
 Manage your to-do list with [Cloudflare Workers Assets](https://developers.cloudflare.com/workers/static-assets/) + [Remix](https://remix.run/) + [Cloudflare Workers KV](https://developers.cloudflare.com/kv/).
